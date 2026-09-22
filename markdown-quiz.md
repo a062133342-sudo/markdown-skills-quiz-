@@ -23,13 +23,13 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 This sentence contains some **bold text** and some *italic text*.
 
-- Item one of unordered list
-- Item two of unordered list
-- Item three of unordered list
+- pen
+- pencil
+- ruler
 
-1. Item one of ordered list
-2. Item two of ordered list
-3. Item three of ordered list
+1. pen
+2. pencil
+3. ruler
 
 `git status`
 
