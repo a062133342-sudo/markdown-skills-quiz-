@@ -31,11 +31,16 @@ This sentence contains some **bold text** and some *italic text*.
 2. pencil
 3. ruler
 
-!https://git-scm.com/install/
+	[title]([https://www.example.co](https://git-scm.com/install/)m)
 
 `git status`
 
-`git add .` and `git commit -m "markdown quiz"`
+```
+{
+  "`git add .`",
+  "`git commit -m "markdown quiz"`"
+}
+```
 
 - [x] Completed task
 - [ ] Pending task
