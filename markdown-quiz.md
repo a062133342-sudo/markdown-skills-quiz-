@@ -19,6 +19,30 @@ Complete every task in the answer area below. Do not delete the `QUIZ-START` or 
 
 <!-- QUIZ-START -->
 
-Replace this line with your Markdown answers.
+# My Markdown Skills
+
+This sentence contains some **bold text** and some *italic text*.
+
+- Item one of unordered list
+- Item two of unordered list
+- Item three of unordered list
+
+1. Item one of ordered list
+2. Item two of ordered list
+3. Item three of ordered list
+
+`git status`
+
+`git add .` and `git commit -m "markdown quiz"`
+
+- [x] Completed task
+- [ ] Pending task
+
+> This is a sentence.
+
+| question 1 | question 2 |
+|------------|------------|
+| Data 1     | Data 2     |
+| Data 3     | Data 4     |
 
 <!-- QUIZ-END -->
