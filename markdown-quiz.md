@@ -42,8 +42,8 @@ This sentence contains some **bold text** and some *italic text*.
 }
 ```
 
-- [x] Completed task
-- [ ] Pending task
+- [x] say hello
+- [ ] task
 
 > This is a sentence.
 
